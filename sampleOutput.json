@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Aaron Kelly",
+            "title": "Rockhampton bull rider goes from beef capital of Australia to rodeo capital of the world in US",
+            "description": "From riding a 44-gallon drum in his backyard to riding 800-kilogram beasts, this young Queenslander is grabbing life by the horns and making a name for himself in one of the world's most dangerous sports.",
+            "url": "https://www.abc.net.au/news/2024-01-04/bull-riding-professional-rodeo-circuit-america-cowboy-champion/103281008",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b27a292edf2d3ee5cf517ce49034786e?impolicy=wcms_crop_resize&cropH=466&cropW=828&xPos=0&yPos=8&width=862&height=485",
+            "publishedAt": "2024-01-03T20:47:09Z",
+            "content": "From practising on a spring loaded, 44-gallon drum in his backyard, to riding 800-kilogram bulls on the biggest rodeo circuit in the world, Jacob Carige is determined to become a champion of his spor… [+4236 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amy Woodyatt",
+            "title": "Snoop Dogg is joining NBC’s coverage of the Paris Olympics",
+            "description": "With the 2024 Paris Olympics now just a few months away, the world’s biggest and best sports stars are starting to gear up for one of the globe’s most prestigious events, where they’ll be joined by a slightly unlikely face: Snoop Dogg.",
+            "url": "https://www.cnn.com/2024/01/03/sport/snoop-dogg-paris-olympics-intl-spt/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240103092455-01-snoop-dogg-082822.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-03T10:49:40Z",
+            "content": "With the 2024 Paris Olympics now just a few months away, the worlds biggest and best sports stars are starting to gear up for one of the globes most prestigious events, where theyll be joined by a sl… [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Josh Fordham",
+            "title": "Manchester United release statement after journalists ‘banned’ from press conference...",
+            "description": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday. Sky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News’ Samuel L…",
+            "url": "https://talksport.com/football/1666142/man-utd-journalists-banned-press-conference-erik-ten-hag/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/10/228f511f-c84a-48e8-b067-5c7277d90984.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2023-12-05T12:12:06Z",
+            "content": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday.\r\nSky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News' Samuel Luckhurs… [+820 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "New Micah Parsons Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.6381564Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Mikal Bridges Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.3882176Z",
+            "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+        }
+    ]
+}
